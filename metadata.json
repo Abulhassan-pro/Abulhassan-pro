@@ -1,0 +1,8 @@
+{
+  "name": "Abulhassan - AI-Driven Portfolio",
+  "description": "A high-end, cinematic professional portfolio for Abulhassan, a tech-native creative specializing in AI design, video editing, and marketing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
